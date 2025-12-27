@@ -16,10 +16,10 @@ ENV/
 .env
 
 # ChromaDB data
-data/chroma/
+# data/chroma/
 
 # PDF files (users should add their own)
-data/pdfs/*.pdf
+# data/pdfs/*.pdf
 
 # IDE
 .vscode/
