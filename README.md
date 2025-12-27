@@ -1,4 +1,4 @@
-# State DOT Maintenance Manual RAG Application
+# Maintenance Manual RAG Application
 
 A Phase-1 prototype RAG (Retrieval-Augmented Generation) application for querying state maintenance manuals. Currently supports California (CA), Texas (TX), and Washington (WA).
 
